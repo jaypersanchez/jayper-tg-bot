@@ -62,6 +62,42 @@
       "answer": "Jayper Sanchez uses Python, JavaScript, Java, SQL, and various other languages including those for full-stack development and machine learning."
     },
     {
+      "question": "Can you tell me more about your Python experience?",
+      "variations": [
+        "What is your experience with Python?",
+        "How have you used Python in your projects?",
+        "Can you elaborate on your Python skills?",
+        "What Python technologies are you familiar with?",
+        "What kind of Python applications have you developed?",
+        "How have you applied Python in your work?"
+      ],
+      "answer": "Jayper Sanchez has extensive experience with Python, including developing applications with Python, using machine learning libraries like NumPy and BERT, and working with data engineering tools such as PySpark and Apache Spark on Databricks. He has also implemented ETL pipelines and data migration processes."
+    },
+    {
+      "question": "Can you tell me more about your experience with JavaScript?",
+      "variations": [
+        "What is your experience with JavaScript?",
+        "How have you used JavaScript in your projects?",
+        "Can you elaborate on your JavaScript skills?",
+        "What JavaScript frameworks are you familiar with?",
+        "What kind of JavaScript applications have you developed?",
+        "How have you applied JavaScript in your work?"
+      ],
+      "answer": "Jayper Sanchez has significant experience with JavaScript, including full-stack development using frameworks like React, Node.js, and Express. He has worked on various web applications, integrated JavaScript with blockchain technologies, and developed dynamic user interfaces using modern JavaScript tools and libraries."
+    },
+    {
+      "question": "Can you tell me more about your Java experience?",
+      "variations": [
+        "What is your experience with Java?",
+        "How have you used Java in your projects?",
+        "Can you elaborate on your Java skills?",
+        "What Java technologies are you familiar with?",
+        "What kind of Java applications have you developed?",
+        "How have you applied Java in your work?"
+      ],
+      "answer": "Jayper Sanchez has a solid background in Java, having developed various applications and software solutions. His experience includes using Java for backend development, creating enterprise applications, and working with Java-based frameworks and tools. He has also used Java for building scalable and high-performance systems."
+    },
+    {
       "question": "What is Jayper Sanchez's experience with blockchain technology?",
       "variations": [
         "What experience does he have with blockchain technology?",
@@ -90,48 +126,84 @@
       "variations": [
         "What is his educational background?",
         "Where did he study?",
-        "What degrees or certifications does he have?",
-        "Where did he get his education?",
-        "What educational qualifications does he hold?",
-        "Can you provide details on his education?"
+        "What degrees does he have?",
+        "Can you tell me about his education?",
+        "What are his academic qualifications?",
+        "Where did you get your education?"
       ],
-      "answer": "Jayper Sanchez holds a Certificate in HCIT Implementation Support Specialist from Cosumnes River College, an Associate’s Degree in Computer Programming & Systems Analysis from Compu College School of Business, and a Blockchain Smart Contract Developer Certification from Consensys."
+      "answer": "Jayper Sanchez has a diverse educational background including a Certificate in HCIT Implementation Support Specialist from Cosumnes River College, an Associate’s Degree in Computer Programming & Systems Analysis from Compu College School of Business, and a Blockchain Smart Contract Developer Certification from Consensys."
     },
     {
-      "question": "What is Jayper Sanchez's experience with SAP BTP?",
+      "question": "What is your experience with SAP?",
       "variations": [
-        "How has he worked with SAP BTP?",
-        "What is his experience with SAP Business Technology Platform?",
-        "Has he used SAP BTP in his projects?",
-        "Experience with SAP BTP?",
-        "How familiar is he with SAP BTP?",
-        "What projects has he worked on involving SAP BTP?"
+        "Can you describe your SAP experience?",
+        "How have you worked with SAP?",
+        "What SAP projects have you been involved in?",
+        "What is your role in SAP implementations?",
+        "Can you elaborate on your SAP skills?",
+        "How have you applied SAP in your work?"
       ],
-      "answer": "Jayper Sanchez designs and develops software solutions that integrate seamlessly within the SAP BTP ecosystem. He creates software extensions and prepares them for migration out of SAP's BTP, ensuring functionality and performance."
+      "answer": "Jayper Sanchez has extensive experience with SAP, including designing and implementing SAP SuccessFactors solutions, managing SAP BTP integrations, and developing software extensions for SAP environments. He has worked on various SAP modules, including HRIS and project management solutions."
     },
     {
-      "question": "What is Jayper Sanchez's experience with SAP HANA Cloud?",
+      "question": "Can you provide details about your experience with JavaScript frameworks?",
       "variations": [
-        "What experience does he have with SAP HANA Cloud?",
-        "Has he worked with SAP HANA Cloud?",
-        "How has he used SAP HANA Cloud in his projects?",
-        "Experience with SAP HANA Cloud?",
-        "What role has SAP HANA Cloud played in his work?",
-        "Can you describe his work with SAP HANA Cloud?"
+        "What JavaScript frameworks have you worked with?",
+        "How have you used frameworks like React or Angular?",
+        "Can you describe your experience with JavaScript libraries?",
+        "What frameworks are you proficient in?",
+        "What is your experience with JavaScript tools and libraries?",
+        "Can you elaborate on your JavaScript framework experience?"
       ],
-      "answer": "The current content does not provide specific details on Jayper Sanchez's experience with SAP HANA Cloud. If relevant information becomes available, it will be updated accordingly."
+      "answer": "Jayper Sanchez has experience with several JavaScript frameworks including React, Angular, and Vue.js. He has used these frameworks for building dynamic web applications, creating user interfaces, and managing state effectively in complex applications."
     },
     {
-      "question": "What is Jayper Sanchez's experience with React Native?",
+      "question": "How have you utilized Python for data engineering?",
       "variations": [
-        "How has he worked with React Native?",
-        "What is his experience with React Native?",
-        "Has he used React Native in any projects?",
-        "Experience with React Native?",
-        "What role has React Native played in his work?",
-        "Can you describe his work with React Native?"
+        "What data engineering tasks have you handled with Python?",
+        "Can you describe your Python data engineering experience?",
+        "How have you used Python for ETL processes?",
+        "What Python tools and libraries do you use for data engineering?",
+        "Can you provide examples of Python-based data pipelines you've built?",
+        "How have you applied Python in data migration and transformation?"
       ],
-      "answer": "The current content does not provide specific details on Jayper Sanchez's experience with React Native. If relevant information becomes available, it will be updated accordingly."
+      "answer": "Jayper Sanchez has utilized Python extensively for data engineering tasks, including building ETL pipelines, data transformation, and migration processes. He has worked with libraries like Pandas, NumPy, and PySpark to manage and analyze large datasets efficiently."
+    },
+    {
+      "question": "What is your experience with Java backend development?",
+      "variations": [
+        "How have you used Java for backend development?",
+        "Can you describe your Java backend projects?",
+        "What Java technologies are you familiar with for backend development?",
+        "How have you applied Java in creating server-side applications?",
+        "What frameworks and tools have you used with Java for backend?",
+        "Can you provide examples of backend solutions developed with Java?"
+      ],
+      "answer": "Jayper Sanchez has experience in Java backend development, including creating server-side applications using frameworks like Spring Boot and Java EE. He has developed scalable and high-performance systems, implemented RESTful APIs, and managed backend services for various applications."
+    },
+    {
+      "question": "How have you integrated blockchain technology into your projects?",
+      "variations": [
+        "What blockchain integrations have you worked on?",
+        "Can you describe your experience with blockchain technology integration?",
+        "How have you used blockchain in your applications?",
+        "What blockchain protocols and technologies have you worked with?",
+        "Can you provide examples of blockchain-based solutions you've developed?",
+        "How have you implemented blockchain into existing systems?"
+      ],
+      "answer": "Jayper Sanchez has integrated blockchain technology into various projects, including developing smart contracts, creating decentralized applications, and working with blockchain protocols such as Ethereum and Hyperledger. He has also utilized Web3 for interacting with blockchain networks and managing decentralized transactions."
+    },
+    {
+      "question": "What is your experience with SAP?",
+      "variations": [
+        "Can you describe your SAP experience?",
+        "How have you worked with SAP?",
+        "What SAP projects have you been involved in?",
+        "What is your role in SAP implementations?",
+        "Can you elaborate on your SAP skills?",
+        "How have you applied SAP in your work?"
+      ],
+      "answer": "Jayper Sanchez has extensive experience with SAP, including designing and implementing SAP SuccessFactors solutions, managing SAP BTP integrations, and developing software extensions for SAP environments. He has worked on various SAP modules, including HRIS and project management solutions."
     }
   ]
 }
