@@ -1,0 +1,137 @@
+{
+  "questions": [
+    {
+      "question": "What languages does Jayper Sanchez speak?",
+      "variations": [
+        "What languages can he speak?",
+        "Which languages does he know?",
+        "What languages does Jayper speak?",
+        "Languages spoken by him?",
+        "What languages do you speak?",
+        "Which languages are you fluent in?"
+      ],
+      "answer": "Jayper Sanchez speaks English (Native or Bilingual) and Tagalog (Native or Bilingual)."
+    },
+    {
+      "question": "What are Jayper Sanchez's top skills?",
+      "variations": [
+        "What are his top skills?",
+        "What skills is he proficient in?",
+        "List his top skills.",
+        "What are his areas of expertise?",
+        "What are your top skills?",
+        "What skills do you excel in?"
+      ],
+      "answer": "Jayper Sanchez's top skills include Executive Management, Project Management, and Software Architecture."
+    },
+    {
+      "question": "What certifications does Jayper Sanchez have?",
+      "variations": [
+        "What certifications does he hold?",
+        "Certifications held by him?",
+        "What are his certifications?",
+        "List his certifications.",
+        "What certifications do you have?",
+        "Which certifications are you qualified in?"
+      ],
+      "answer": "Jayper Sanchez has certifications in Presentation Fundamentals, Databricks Certified Data Engineer Associate, SQL Essential Training, Android Development with Android Studio, and Android Development: The Navigation Architecture Component."
+    },
+    {
+      "question": "What is Jayper Sanchez's current role?",
+      "variations": [
+        "What is his current job?",
+        "What does he do now?",
+        "Current position of Jayper?",
+        "Role at the moment?",
+        "What is your current role?",
+        "What are you currently working on?"
+      ],
+      "answer": "Jayper Sanchez is currently a Software Architect and Senior Fullstack Developer at Success Solutions s.r.o., Prague, Czechia."
+    },
+    {
+      "question": "What computer languages do you have experience in?",
+      "variations": [
+        "Which programming languages does he use?",
+        "What languages does he code in?",
+        "List programming languages used by him.",
+        "What programming languages are you experienced in?",
+        "Which languages do you use for programming?",
+        "What programming languages does Jayper Sanchez use?",
+        "What computer languages do you have experience in?"
+      ],
+      "answer": "Jayper Sanchez uses Python, JavaScript, Java, SQL, and various other languages including those for full-stack development and machine learning."
+    },
+    {
+      "question": "What is Jayper Sanchez's experience with blockchain technology?",
+      "variations": [
+        "What experience does he have with blockchain technology?",
+        "How does he work with blockchain?",
+        "What blockchain projects has he been involved in?",
+        "Experience in blockchain technology?",
+        "What is your experience with blockchain technology?",
+        "How have you worked with blockchain technology?"
+      ],
+      "answer": "Jayper Sanchez has experience in developing blockchain applications, including creating cryptocurrencies and tokens for different blockchain networks. He has worked with decentralized applications and DeFi projects, integrating Web3 into applications and using protocols such as Uniswap V2 and 0X Exchange."
+    },
+    {
+      "question": "What are some of Jayper Sanchez's notable projects?",
+      "variations": [
+        "What projects has he worked on?",
+        "Can you name some of his notable projects?",
+        "What are some key projects he has been involved in?",
+        "Notable projects by him?",
+        "What are some of your notable projects?",
+        "Can you describe some key projects you've worked on?"
+      ],
+      "answer": "Some notable projects by Jayper Sanchez include the SHFT token for Shyft Network, crypto and token development, mobile applications for health and fitness, and a semantic search engine. He has also worked on AI implementations for inbound calls through Twilio with Articify and software architecture for JobDeal."
+    },
+    {
+      "question": "What is Jayper Sanchez's educational background?",
+      "variations": [
+        "What is his educational background?",
+        "Where did he study?",
+        "What degrees or certifications does he have?",
+        "Where did he get his education?",
+        "What educational qualifications does he hold?",
+        "Can you provide details on his education?"
+      ],
+      "answer": "Jayper Sanchez holds a Certificate in HCIT Implementation Support Specialist from Cosumnes River College, an Associate’s Degree in Computer Programming & Systems Analysis from Compu College School of Business, and a Blockchain Smart Contract Developer Certification from Consensys."
+    },
+    {
+      "question": "What is Jayper Sanchez's experience with SAP BTP?",
+      "variations": [
+        "How has he worked with SAP BTP?",
+        "What is his experience with SAP Business Technology Platform?",
+        "Has he used SAP BTP in his projects?",
+        "Experience with SAP BTP?",
+        "How familiar is he with SAP BTP?",
+        "What projects has he worked on involving SAP BTP?"
+      ],
+      "answer": "Jayper Sanchez designs and develops software solutions that integrate seamlessly within the SAP BTP ecosystem. He creates software extensions and prepares them for migration out of SAP's BTP, ensuring functionality and performance."
+    },
+    {
+      "question": "What is Jayper Sanchez's experience with SAP HANA Cloud?",
+      "variations": [
+        "What experience does he have with SAP HANA Cloud?",
+        "Has he worked with SAP HANA Cloud?",
+        "How has he used SAP HANA Cloud in his projects?",
+        "Experience with SAP HANA Cloud?",
+        "What role has SAP HANA Cloud played in his work?",
+        "Can you describe his work with SAP HANA Cloud?"
+      ],
+      "answer": "The current content does not provide specific details on Jayper Sanchez's experience with SAP HANA Cloud. If relevant information becomes available, it will be updated accordingly."
+    },
+    {
+      "question": "What is Jayper Sanchez's experience with React Native?",
+      "variations": [
+        "How has he worked with React Native?",
+        "What is his experience with React Native?",
+        "Has he used React Native in any projects?",
+        "Experience with React Native?",
+        "What role has React Native played in his work?",
+        "Can you describe his work with React Native?"
+      ],
+      "answer": "The current content does not provide specific details on Jayper Sanchez's experience with React Native. If relevant information becomes available, it will be updated accordingly."
+    }
+  ]
+}
